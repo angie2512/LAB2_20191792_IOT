@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">LAB2_20191792</string>
+    <string name="app_name">Lab2_IOT</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellido">Apellidos</string>
+    <string name="correo">Email</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="advertencia">I agree with the terms of service and privacy policy</string>
 </resources>
